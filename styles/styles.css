@@ -62,12 +62,12 @@ body {
   justify-content: space-between;
   padding: 24px;
   position: relative;
-  box-shadow: 5px 5px var(--neutral-black);
+  box-shadow: 8px 8px var(--neutral-black);
   transition: box-shadow 0.3s ease-in-out;
 
   &:hover {
     cursor: pointer;
-    box-shadow: 15px 15px var(--neutral-black);
+    box-shadow: 16px 16px var(--neutral-black);
 
     .card-title {
       color: var(--primary);
